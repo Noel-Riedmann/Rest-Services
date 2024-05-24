@@ -12,5 +12,5 @@ INSERT INTO people (firstname, lastname) VALUES ('Jonas', 'Kronabitter');
 INSERT INTO people (firstname, lastname) VALUES ('Jonas', 'Nigg');
 
 
-
+USE htld;
 SELECT * FROM people 
